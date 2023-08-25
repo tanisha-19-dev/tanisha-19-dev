@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Machine Leaning**
 
-- 👯 I’m looking to collaborate on **Unemployed**
 
 - 💬 Ask me about **Html,Css**
 
