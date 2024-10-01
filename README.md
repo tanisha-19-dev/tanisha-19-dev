@@ -44,6 +44,8 @@
 
 The snake's eating up my contributions🐍.
 
-![snake gif]()
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+
+ 
 
 <br>
